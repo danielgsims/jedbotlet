@@ -1,0 +1,22 @@
+{
+  "name": "botletscripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "random.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielgsims/jedbotlet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielgsims/jedbotlet/issues"
+  },
+  "homepage": "https://github.com/danielgsims/jedbotlet#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
